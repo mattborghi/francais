@@ -27,7 +27,7 @@ Le gérondif exprime la manière (Comment ?).
 
 en + **base du verbe** (1re personne du pluriel du présent) + *-ant*.
 
-nous **enregistr**ons → **enregistr***ant* → en **registr***ant*
+nous **enregistr**ons → **enregistr** *ant* → en **registr** *ant*
 
 ### Exception de la formation
 
