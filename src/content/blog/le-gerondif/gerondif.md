@@ -40,3 +40,7 @@ nous **enregistr**ons → **enregistr***ant* → en **registr***ant*
 > ⚠ **Le pronom complément** se place après en.
 
 En y intégrant le photographe.
+
+> ⚠ Attention à l'écrit pour certains verbes.
+
+En commen**ç**ant, en mang**e**ant.
