@@ -10,4 +10,22 @@ tags: ['Vocabulaire']
 # Vocabulaire de la maison
 ---
 
-![vocabulaire](./maison.jpeg)
+![maison](./maison.jpeg)
+
+![cuisine](./cuisine.jpg)
+
+![delachalasalledebains](./delachalasalledebains.jpg)
+
+![delachsalledebans2](./delachsalledebans2.jpg)
+
+![maison](./maison.jpg)
+
+![meubles](./meubles.jpg)
+
+![maison2](./maison2.jpg)
+
+![maison11](./maison11.jpg)
+
+![vmaison1](./vmaison1.jpg)
+
+![vmaison2](./vmaison2.jpg)
