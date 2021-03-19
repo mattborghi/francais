@@ -40,7 +40,7 @@ tags:
 - bien travailler/ne rien faire 
 - rattraper 
 - être concentré(e) 
-- faire des diches 
+- faire des fiches 
 - mémoriser
 
 ## J moins X
