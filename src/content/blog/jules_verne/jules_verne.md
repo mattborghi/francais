@@ -4,7 +4,11 @@ title: Présentation Jules Verne
 image: ../../img/presentation.jpg
 author: [Matias Borghi]
 date: 2020-08-15T08:03:47.149Z
-tags: ['Présentation', 'Texto 2']
+tags: 
+    - 'Présentation'
+    - 'Texto 2'
+    - 'A2'
+    - 'Jules Verne'
 ---
 
 # Jules Verne

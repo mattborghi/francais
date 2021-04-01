@@ -4,7 +4,10 @@ title: Subjontif
 image: ../../img/classe.jpg
 author: [Matias Borghi]
 date: 2020-08-22T07:03:47.149Z
-tags: ['Grammaire']
+tags:
+    - 'Grammaire'
+    - 'A2'
+    - 'Subjonctif'
 ---
 
 # Subjonctif

@@ -4,7 +4,10 @@ title: Paul et Virginie de Jacques-Henri Bernardin de Saint-Pierre
 image: ../../img/lecture.jpg
 author: [Matias Borghi]
 date: 2020-03-05T07:03:47.149Z
-tags: ['Livres']
+tags: 
+    - 'Livres'
+    - 'A2'
+    - 'Paul et Virginie'
 ---
 
 # Paul et Virginie de Jacques-Henri Bernardin de Saint-Pierre

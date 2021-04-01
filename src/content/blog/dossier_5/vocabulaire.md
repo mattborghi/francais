@@ -4,7 +4,9 @@ title: Vocabulaire dossier 5 texto 2
 image: ../../img/motsfrancais.jpg
 author: [Matias Borghi]
 date: 2020-09-01T07:03:47.149Z
-tags: ['Vocabulaire']
+tags: 
+    - 'Vocabulaire'
+    - 'A2'
 ---
 
 # Les mots

@@ -4,7 +4,10 @@ title: Les pronoms démonstratifs
 image: ../../img/classe.jpg
 author: [Matias Borghi]
 date: 2020-10-16T07:03:47.149Z
-tags: ['Grammaire']
+tags:
+    - 'Grammaire'
+    - 'A2'
+    - 'Les pronoms démonstratifs'
 ---
 
 ## Les pronoms démonstratifs

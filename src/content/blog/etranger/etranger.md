@@ -4,7 +4,11 @@ title: L'Étranger d'Albert Camus
 image: ../../img/lecture.jpg
 author: [Matias Borghi]
 date: 2020-08-22T07:03:47.149Z
-tags: ['Livres']
+tags: 
+    - 'Livres'
+    - 'A2'
+    - "L'Étranger"
+    - "Albert Camus"
 ---
 
 # L'Étranger d'Albert Camus

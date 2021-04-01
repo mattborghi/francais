@@ -4,7 +4,10 @@ title: Presentation L'Imparfait
 image: ../../img/presentation.jpg
 author: [Matias Borghi]
 date: 2020-10-25T07:03:47.149Z
-tags: ['Présentation']
+tags: 
+    - 'Présentation'
+    - 'A2'
+    - "L'Imparfait"
 ---
 
 # Presentation: L'Imparfait

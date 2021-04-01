@@ -4,7 +4,10 @@ title: Adverbes de maniére
 image: ../../img/classe.jpg
 author: [Matias Borghi]
 date: 2020-08-08T07:03:47.149Z
-tags: ['Grammaire']
+tags: 
+    - 'Grammaire'
+    - 'A2'
+    - 'Adverbes de maniére'
 ---
 
 

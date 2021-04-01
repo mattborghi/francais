@@ -4,7 +4,11 @@ title: Présentation Louis Malle
 image: ../../img/presentation.jpg
 author: [Matias Borghi]
 date: 2020-07-27T07:03:47.149Z
-tags: ['Présentation', 'Texto 2']
+tags: 
+    - 'Présentation'
+    - 'Texto 2'
+    - 'Louis Malle'
+    - 'A2'
 ---
 
 # Louis Malle

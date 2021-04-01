@@ -5,7 +5,9 @@ image: ../../img/drapeau.jpg
 author: [Matias Borghi]
 date: 2017-08-01T07:03:47.149Z
 excerpt: Au début...!.
-tags: ['Début']
+tags: 
+    - 'Début'
+    - 'A1'
 draft: false
 ---
 

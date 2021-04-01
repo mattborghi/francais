@@ -4,7 +4,10 @@ title: Le pronom en
 image: ../../img/classe.jpg
 author: [Matias Borghi]
 date: 2020-10-23T07:03:47.149Z
-tags: ['Grammaire']
+tags:
+    - 'Grammaire'
+    - 'A2'
+    - 'Le pronom en'
 ---
 
 ## Le pronom en

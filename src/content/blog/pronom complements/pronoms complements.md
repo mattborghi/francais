@@ -4,7 +4,11 @@ title: Pronom complément COD ou COI
 image: ../../img/classe.jpg
 author: [Matias Borghi]
 date: 2020-08-15T07:03:47.149Z
-tags: ['Grammaire']
+tags:
+    - 'Grammaire'
+    - 'A2'
+    - 'Les pronoms COD'
+    - 'Les pronoms COI'
 ---
 
 ### Les pronoms COD et COI
