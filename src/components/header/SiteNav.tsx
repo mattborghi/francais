@@ -10,6 +10,8 @@ import { SocialLink, SocialLinkFb } from '../../styles/shared';
 import config from '../../website-config';
 import { SubscribeModal } from '../subscribe/SubscribeModal';
 import { SiteNavLogo } from './SiteNavLogo';
+import Github from '../icons/github.svg';
+import LinkedIn from '../icons/linkedin.svg';
 
 interface SiteNavProps {
   isHome?: boolean;
@@ -101,15 +103,26 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   <a href="https://mattborghi.github.io/">Back to Main</a>
                 </li>
               </ul>
-                {isPost && (
-                  <NavPostTitle ref={this.titleRef} className="nav-post-title">
-                    {post.title}
-                  </NavPostTitle>
-                )}
+              {isPost && (
+                <NavPostTitle ref={this.titleRef} className="nav-post-title">
+                  {post.title}
+                </NavPostTitle>
+              )}
             </SiteNavContent>
           </SiteNavLeft>
           <SiteNavRight>
             <SocialLinks>
+              {config.github && (
+                <a
+                  css={SocialLink}
+                  href={config.github}
+                  title="github"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <img src={Github} width="20" height="20" />
+                </a>
+              )}
               {config.linkedin && (
                 <a
                   className="social-link-fb"
@@ -119,26 +132,7 @@ class SiteNav extends React.Component<SiteNavProps, SiteNavState> {
                   title="linkedin"
                   rel="noopener noreferrer"
                 >
-                   <img
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/linkedin.svg"
-                    width="20"
-                    height="20"
-                  />
-                </a>
-              )}
-              {config.github && (
-                <a
-                  css={SocialLink}
-                  href={config.github}
-                  title="github"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <img
-                    src="https://cdn.jsdelivr.net/npm/simple-icons@4.13.0/icons/github.svg"
-                    width="20"
-                    height="20"
-                  />
+                  <img src={LinkedIn} width="20" height="20" />
                 </a>
               )}
             </SocialLinks>
