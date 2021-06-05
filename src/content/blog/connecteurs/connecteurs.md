@@ -21,15 +21,14 @@ tags:
 - de la même manière / de la même façon (del mismo modo, de la misma manera)
 - non seulement … mais aussi … (no sólo … sino también…)
 
-## Exprimer un but
+## Exprimer un but (la cause)
 
 - car / parce que (porque)
-- à cause de (a causa de)
+- à cause de (a causa de/por culpa de) (-)
+- grâce à (gracias a) (+)
 - comme (como)
 - dû à (debido a)
 - en raison de (debido a)
-- grâce à (gracias a)
-- à cause de (por culpa de)
 - étant donné que (dado que)
 - vu que (visto que)
 - puisque (ya que)
@@ -45,9 +44,31 @@ tags:
 
 ## Exprimer la consequence
 
-- así (ainsi)
+- ainsi (asi)
 - alors / donc (entonces)
 - d’où (de ahí)
 - par conséquent (por consiguiente)
 - à la suite de (a consecuencia de)
 - pour cette raison (por esa razón)
+- en conséquence
+- voilà pourquoi
+- de manière que
+- de façon que
+
+## L'oppsition
+
+- mais (pero): Il est intelligent, **mais** paresseux.
+- cependant (sin embargo): La solution est très simple, et **cependant** personne n'y avait songé.
+- pourtant: Il n'a pas compris ce qu'on lui disait, **pourtant** il est intelligent.
+- toutefois: Je lui parlerai, si **toutefois** il veut m'entendre.
+- par contre
+- au contraire
+- néanmoins: Galilée avait raison, **néanmoins**, il dut se rétracter.
+
+## Ordonner l'argumentation
+
+- D'abord
+- puis
+- ensuite
+- après
+- bref
