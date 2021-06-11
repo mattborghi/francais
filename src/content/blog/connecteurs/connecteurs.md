@@ -68,7 +68,12 @@ tags:
 ## Ordonner l'argumentation
 
 - D'abord
+- de plus
+- en fait
 - puis
 - ensuite
 - après
 - bref
+- donc
+
+> Example: **D'abord**, lorsqu'un enfant commence à envoyer des SMS, c’est son niveau d’orthographe qui détermine la forme des SMS. **De plus**, l'étude montre que ce sont les bons élèves qui font le plus de textismes. **En fait**, c’est ce qu’on appelle le langage SMS. [...] **Bref**, les élèves faibles en orthographe ont un apprentissage long du langage SMS. **Donc**, pour écrire des SMS, il faut savoir écrire.
