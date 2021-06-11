@@ -55,7 +55,7 @@ tags:
 - de manière que
 - de façon que
 
-## L'oppsition
+## L'opposition
 
 - mais (pero): Il est intelligent, **mais** paresseux.
 - cependant (sin embargo): La solution est très simple, et **cependant** personne n'y avait songé.
