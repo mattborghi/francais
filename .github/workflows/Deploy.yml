@@ -16,8 +16,10 @@ jobs:
       - name: Deploy with gh-pages 🚀 # https://github.com/tschaub/gh-pages/pull/368
         run: |
           git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git pull origin master
-          npm run deploy -- -u "github-actions-bot <support+actions@github.com>"
+          npm run deploy
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ALGOLIA_ADMIN_KEY: ${{ secrets.ALGOLIA_ADMIN_KEY }}
